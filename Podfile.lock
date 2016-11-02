@@ -1,3 +1,32 @@
-PODFILE CHECKSUM: 6d6d3e1d6fc5a851a956d42e283e3dc8239deb44
+PODS:
+  - Alamofire (4.0.1)
+  - BEMCheckBox (1.2.1)
+  - JGProgressHUD (1.4)
+  - Locksmith (3.0.0)
+  - Material (2.2.5):
+    - Material/Core (= 2.2.5)
+  - Material/Core (2.2.5)
+  - SwiftyJSON (3.0.0)
+  - SWXMLHash (3.0.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0.0)
+  - BEMCheckBox
+  - JGProgressHUD (~> 1.4)
+  - Locksmith (~> 3.0.0)
+  - Material (~> 2.0)
+  - SwiftyJSON (~> 3.0.0)
+  - SWXMLHash (~> 3.0.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  BEMCheckBox: 264b8b72aa92adbfefa265cc58a0cdb86b207b9f
+  JGProgressHUD: 1617b0940cf80bb53e8f7d6f0fd69252ea45d6d4
+  Locksmith: 310b4cc5031af5728bf4db5d4de547a5100c6a3b
+  Material: 9d1d084759d908a5bddc37e6e9d22874da296621
+  SwiftyJSON: f57b2b44bc166617372d1c70773591fe9f0f5fd4
+  SWXMLHash: e0f6935971f01b06fb228cf435510d998ecde647
+
+PODFILE CHECKSUM: 11cf4fb1571ed8ea72c57c0efe2e96999018e4d6
 
 COCOAPODS: 1.1.0.rc.3
